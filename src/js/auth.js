@@ -1,6 +1,6 @@
 const clientId = "7b6b34cddcf8481495160f3ace6fe510";
 const tokenUrl = "https://accounts.spotify.com/api/token";
-const redirectUri = "https://ciongu.github.io/MusicTasteUnboxedReact";
+const redirectUri = "https://ciongu.github.io/MusicTasteUnboxedReact/";
 let authUri = "https://accounts.spotify.com/authorize?";
 const scope = "user-read-private user-read-email user-top-read ";
 const state = Math.random().toString(36).slice(2);
