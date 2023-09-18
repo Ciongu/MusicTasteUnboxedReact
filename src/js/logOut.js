@@ -7,7 +7,12 @@ const logOut = function () {
   );
 
   setTimeout(() => spotifyLogoutWindow.close(), 100);
-  setTimeout(() => (window.location.href = "http://localhost:3000/"), 101);
+  setTimeout(
+    () =>
+      (window.location.href =
+        "https://ciongu.github.io/MusicTasteUnboxedReact/"),
+    101
+  );
 };
 
 export default logOut;
