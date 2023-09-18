@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MusicTasteUnboxedReact/static/css/main.d9c4017d.css",
-    "main.js": "/MusicTasteUnboxedReact/static/js/main.af63811f.js",
+    "main.css": "/MusicTasteUnboxedReact/static/css/main.226faac1.css",
+    "main.js": "/MusicTasteUnboxedReact/static/js/main.0e258afc.js",
     "static/media/background.jpg": "/MusicTasteUnboxedReact/static/media/background.c7ed236290444f8e1ba8.jpg",
     "static/media/CircularSpotifyText-Medium.otf": "/MusicTasteUnboxedReact/static/media/CircularSpotifyText-Medium.7f8341c6940468e86d8d.otf",
     "static/media/CircularSpotifyText-Light.otf": "/MusicTasteUnboxedReact/static/media/CircularSpotifyText-Light.5e12df08ca91cc19e9e7.otf",
     "index.html": "/MusicTasteUnboxedReact/index.html",
-    "main.d9c4017d.css.map": "/MusicTasteUnboxedReact/static/css/main.d9c4017d.css.map",
-    "main.af63811f.js.map": "/MusicTasteUnboxedReact/static/js/main.af63811f.js.map"
+    "main.226faac1.css.map": "/MusicTasteUnboxedReact/static/css/main.226faac1.css.map",
+    "main.0e258afc.js.map": "/MusicTasteUnboxedReact/static/js/main.0e258afc.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9c4017d.css",
-    "static/js/main.af63811f.js"
+    "static/css/main.226faac1.css",
+    "static/js/main.0e258afc.js"
   ]
 }
