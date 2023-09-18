@@ -62,7 +62,7 @@ h3 {
 }
 
 @media (max-width: 768px) {
-  h1 {
+  .title-auth {
     font-size: 4rem;
   }
 

@@ -12,7 +12,7 @@ export default function Song(props) {
           className="link-song"
           href={props.linkToSong}
         >
-          {props.linkToSong}
+          Listen Song
         </a>
       </div>
     </li>
